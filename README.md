@@ -1,4 +1,4 @@
-# student_registrtion_using_java
+# student_registration_using_java
 
 
 JAVA PROJECT ON STUDENT REGISTRATION USING JAVA FORMS,
